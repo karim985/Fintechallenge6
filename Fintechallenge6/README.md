@@ -21,7 +21,7 @@ To navigate through this data, you need to download and set up the following pro
 
 ## Usage
  
-*Press the play button on Jupyter lab notebook, and you will be to see all data and graphs associated with the analysis
+*Press the play button on Jupyter lab notebook, and you will be able to see all data and graphs associated with the analysis
 
 ![Jupyetr lab dashboard screen shot.](Images/jupyter.png)
 
